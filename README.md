@@ -1,0 +1,1 @@
+Essa pasta é apenas para acompanhar a evolução dos meus códigos e para testar as novas ferramentas aprendidas.
