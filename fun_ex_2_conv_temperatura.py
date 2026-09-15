@@ -24,7 +24,7 @@ def main():
 
     celsius_texto = input("Digite uma temperatura em celsius\n")
 
-    celsius = int(celsius_texto)
+    celsius = float(celsius_texto)
     fahrenheit = formula_fahrenheit(celsius)
 
     mensagem(celsius, fahrenheit)
